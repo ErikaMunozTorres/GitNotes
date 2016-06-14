@@ -9,7 +9,7 @@ Global configuration stored under ~/.gitconfig. Local configuration stored under
  git config --global color.ui auto 
 ```
 ```bash
- git config --global core.edit nano
+ git config --global core.edit vim
 ```
 ## Initialization
 Creates the .git directory. To undo `rm-r .git`
