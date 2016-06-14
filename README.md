@@ -2,8 +2,8 @@
 
 Global configuration stored under ~/.gitconfig. Local configuration stored under .git/config. Can edit with a text editor.
 ``bash
- git config --global user.name "Tyson Whitehead" 
- git config --global user.email "twhitehead@gmail.com" 
+ git config --global user.name "Erika" 
+ git config --global user.email "e.munoz.torres@gmail.com" 
 
 ```bash
  git config --global color.ui auto 
